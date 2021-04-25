@@ -1,0 +1,10 @@
+Course: ads:
+ * Id: ads
+ * Marks: 
+     +   hung: 12.0
+     +   viet: 15.0
+Course: python:
+ * Id: python
+ * Marks: 
+     +   hung: none
+     +   viet: none

@@ -1,0 +1,8 @@
+Student: hung:
+ * Id: 33
+ * Dob: 19
+ * Gpa: 12.0
+Student: viet:
+ * Id: 66
+ * Dob: 21
+ * Gpa: 15.0
